@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715024918126",
+    "firebase_url": "https://flutter-varios-865b4.firebaseio.com",
+    "project_id": "flutter-varios-865b4",
+    "storage_bucket": "flutter-varios-865b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715024918126:android:6e38d6e53d1607bf41e87f",
+        "android_client_info": {
+          "package_name": "com.AIRB.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715024918126-j6lc1i35j2emb1s8vsrn825c96me1i94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AIRB.auth_app",
+            "certificate_hash": "54aa2d527dad9f466caeb26c7ee23f123e8fcd06"
+          }
+        },
+        {
+          "client_id": "715024918126-dj1oro3i2s1n29o1g5tg101nheclvb9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDrRY1SixdBZkWkaycwmyQeP0iX2E2bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715024918126-dj1oro3i2s1n29o1g5tg101nheclvb9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
